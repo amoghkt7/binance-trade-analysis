@@ -7,9 +7,13 @@ This project analyzes Binance trading data over a 90-day period to evaluate acco
 
 Objective
 The goal was to:
+
 ✅ Clean and preprocess the provided dataset.
+
 ✅ Calculate key financial metrics for each account.
+
 ✅ Develop a ranking algorithm to identify the top 20 accounts.
+
 ✅ Present insights through a detailed report.
 
 Dataset Information
