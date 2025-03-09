@@ -19,9 +19,11 @@ The goal was to:
 ✅ Present insights through a detailed report.
 
 Dataset Information
+
 The dataset contains Binance trade data with details such as:
 
 Port_IDs: Unique account identifiers
+
 Trade_History: Historical trade details like timestamps, asset type, side (BUY/SELL), and prices
 
 realizedProfit: Indicates profit or loss for each trade
@@ -60,5 +62,7 @@ MDD (Risk) → -10% (negative weight as lower values are better)
 
 
 Insights & Results
+
 📊 Identified the top 20 performing accounts based on profitability, risk-adjusted returns, and efficiency.
+
 📈 The analysis provides valuable insights for identifying high-performing traders.
